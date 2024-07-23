@@ -1,4 +1,7 @@
 ### Diff template
+secret.*
+*.tfstate
+*.tfstate.*
 *.patch
 *.diff
 .terraform
